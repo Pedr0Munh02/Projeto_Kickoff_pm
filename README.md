@@ -24,7 +24,7 @@ O objetivo do projeto é ajudar as pessoas a descobrir como descartar corretamen
 
 O projeto será desenvolvido individualmente utilizando Kanban para organizar as tarefas.
 
-Link do Kanban:
+Link do Trello: https://trello.com/invite/b/6abfa1068b64b74f6f73c175/ATTI9e6558e8228bc9a0ff59c8204db49c275DF1FCBC/kanban-hackcycle
 
 👨‍💻 Projeto
 
